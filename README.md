@@ -8,12 +8,10 @@ Import following libraries for usage:
 .xls => ALGORITHM_NAME + TABLE_NAME + (TRAIN || TEST)
 
 FOR THIS EXECUTION:
-#of Algorithm : 20
-#of Tables : 4
-Total .xls file = 20 * 4 * (TRAIN or TEST) = 160
+* #of Algorithm : 20
+* #of Tables : 4
+* Total .xls file = 20 * 4 * (TRAIN or TEST) = 160
 
-
-Evaluation 
 
 Best algorithm for entire system 
     
