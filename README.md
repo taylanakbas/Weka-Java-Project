@@ -1,6 +1,10 @@
 # Weka-Java-Project
-Evaluation 
+## Getting Started
+Import following libraries for usage:
+* Weka 3.9.3
+* jexcelapi
 
+## Evaluation 
 .xls => ALGORITHM_NAME + TABLE_NAME + (TRAIN || TEST)
 
 FOR THIS EXECUTION:
